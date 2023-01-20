@@ -234,7 +234,7 @@ section.classicos .card-item0 {
 }
 
 section.classicos .card-item01 {
-    height: 194px;
+    height: auto;
     background:  var(--cor4);
     border-radius: 4px;
     display: flex;
