@@ -100,7 +100,7 @@ main {
 }
 
 main h1 {
-    color: var(--cor1);
+    color: var(--cor0);
     text-shadow: 1.5px 1.5px 1.5px rgba(0, 0, 0, 0.671);
     font-family: var(--fonte-burguer);
     font-weight: normal;
@@ -111,7 +111,7 @@ main h1 {
 main h2 {
     font-family: var(--fonte-burguer);
     text-align: center;
-    color: var(--cor1);
+    color: var(--cor0);
     font-size: 1.6em;
     font-weight: bold;
     border-radius: 8px;
@@ -269,7 +269,7 @@ section.classicos > div.card-wrapper0 > div.card-item0 > div.card-content0 > h3 
     text-align: center;
     padding-bottom: 18px;
     font-size: 1.3em;
-    background-color: var(--cor1);
+    background-color: var(--cor0);
     width: 100%;
     border-radius: 4px;
     color:var(--cor4) ;
@@ -289,7 +289,7 @@ section.classicos > div.card-wrapper0 > div.card-item0 > div.card-content0 > h4 
     font-family: var(--fonte-destaque);
     font-size: 1.5em;
     text-align: left;
-    color: var(--cor1);
+    color: var(--cor0);
     text-shadow: 2px 2px 15px #000000ce;
     text-shadow: none;
     margin: 5px;
@@ -305,7 +305,7 @@ section.classicos > div.card-wrapper0 > div.card-item0 > div.card-content0 > f {
 }
 
 section.classicos > div.card-wrapper0 > div.card-item0 > div.card-content0 > h4 > h {
-    background-color: var(--cor1);
+    background-color: var(--cor0);
     color: var(--cor4);
     font-size: 1.1em;
     border-radius: 50%;
